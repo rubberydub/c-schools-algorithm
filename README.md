@@ -10,7 +10,7 @@ Make with makefile.
 
 Then:
 
-./assn2 < test
+    ./assn2 < test
 
 where:
 
