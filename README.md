@@ -2,6 +2,8 @@
 
 This is a greedy set cover algorithm. 
 
+I wrote this during my studies for the University of Melbourne Class Design of Algorithms.
+
 It takes as input a weighted graph consisting of 2 types of verticies - schools and houses.
 It returns the optimum school verticies to build schools at. Each house must be within distance 100 of a school.
 
